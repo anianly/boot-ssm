@@ -1,2 +1,2 @@
 # boot-ssm
-Spring Boot + MyBatis + Thymeleaf后台管理里项目
+Spring Boot + MyBatis + Thymeleaf后台管理项目
